@@ -1,5 +1,11 @@
 # Heroes of Pymoli
 
+Three Observations:
+
+1. 84% of players were male (out of 573).
+2. The age group with the highest purchase count was 20-24. This age group was the most impactful and prevalent. 
+3. Final Critic was the most significant and profitable item, as it had both the highest purchase count and highest total purchase value.
+
 Read Data
 
 <img width="725" alt="Screen Shot 2022-02-03 at 7 22 23 PM" src="https://user-images.githubusercontent.com/94650193/152466823-9b8a3047-84da-45c8-bb42-2a4563d0b375.png">
